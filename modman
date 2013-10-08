@@ -1,0 +1,5 @@
+# aschroder_smtppro
+code                                app/code/local/Aschroder/SMTPPro/
+template                            app/design/adminhtml/default/default/template/smtppro/
+locale                              app/locale/
+Aschroder_SMTPPro.xml               app/etc/modules/Aschroder_SMTPPro.xml
